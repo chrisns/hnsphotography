@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "hanwebsiteupdate-executor",
+    "name": "hanwebsiteupdate",
+    "region": "eu-west-2"
+  }
+}

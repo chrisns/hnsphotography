@@ -1,0 +1,21 @@
+{
+  "name": "hanwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Nesbitt-Smith",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^3.0.0",
+    "replace-in-file": "^3.4.4",
+    "s3": "git+https://github.com/andjosh/node-s3-client.git#0e9718296c46f708b1f82171d894a36bf78cf038",
+    "website-scraper": "^3.4.0"
+  },
+  "optionalDependencies": {
+    "aws-sdk": "^2.156.0",
+    "claudia": "^2.14.3"
+  }
+}
